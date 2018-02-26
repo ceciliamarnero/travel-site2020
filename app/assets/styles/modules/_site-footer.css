@@ -11,7 +11,7 @@
 		margin-bottom: 1rem;
 
 
-		@add-mixim atMedium{
+		@add-mixin atMedium{
 			display: inline;
 			margin-bottom: 0;
 			margin-right: 1.4rem;
